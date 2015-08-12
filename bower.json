@@ -1,0 +1,11 @@
+{
+  "name": "ping service",
+  "description": "This is an app for monitoring uptime for an application that uses a CDN, API Proxy and Backend Api's. ",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "jquery": "1.11.1",
+    "angular": "1.2.28",
+    "angular-resource": "1.2.28"
+  }
+}
